@@ -1,7 +1,4 @@
----
-layout: default
-title: my page
----
+
 ---
 ## 📬 联系方式
 
